@@ -1,1 +1,3 @@
-My first readmee
+My first readme
+i'm ver curious right now 
+
